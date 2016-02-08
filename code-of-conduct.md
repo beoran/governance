@@ -6,14 +6,14 @@ A code of conduct and ethics is a set of rules and practices applied to a specif
 This code of conduct relies on the language of 
 [Rfc2119](https://www.ietf.org/rfc/rfc2119.txt)
 
-The goal of this Code of Conduct to set expectations of behavior
-and minimize drama* while promoting a culture of productivity, fun,
+The goal of this Code of Conduct is to set expectations of behavior, 
+minimize drama and promote a culture of productivity, fun,
 and appreciation.
 
-Drama is defined as anything that purposefully wastes the time of 
+**Drama** is defined as anything that purposefully wastes the time of 
 others, placing undue priority and value on trivial matters, or
 purposely exaggerating emotions and responses to garner sympathy
-in situations as a ploy to influence others.  
+in situations as a ploy to emotionally manipulate others.  
 
 The Code of Conduct MUST NOT supersede laws within an individual's respective
 location. As such, all infractions of the law MUST be reported to the
@@ -87,7 +87,7 @@ a Creator or Administrator is a witness to such blatant actions e.g. sees harass
 a mailing list, the Creator or Administrator MUST act on such evidence for the 
 good of the community and remove all such persons from the community. 
 
-Attempt to resolve conflicts with respect and civility, if a project Creator or Administrator
+Resolve conflicts with respect and civility. if a project Creator or Administrator
 gets involved, then all parties MAY be temporarily suspended for a cool off period of no 
 less than 30 days.
 
@@ -136,9 +136,6 @@ Appeals to authority or popularity and using peer pressure will be tolerated.
 - "I can't believe you don't have Dropbox support yet."
 - "You need to listen to your users and ...".  
 - "x seems like a good and popular option."
-
-
-
 
  
 ## Ethics
