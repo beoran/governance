@@ -6,13 +6,18 @@ A code of conduct and ethics is a set of rules and practices applied to a specif
 This code of conduct relies on the language of 
 [Rfc2119](https://www.ietf.org/rfc/rfc2119.txt)
 
-The goal is to set expectations of behavior and minimize drama
-while promoting a culture of productivity, fun, and appreciation in 
-hopes of preventing a project from turning into a lifeless chore. 
+The goal of this Code of Conduct to set expectations of behavior
+and minimize drama* while promoting a culture of productivity, fun,
+and appreciation.
 
-These rules MUST NOT supersede laws within an individual's respective
+Drama is defined as anything that purposefully wastes the time of 
+others, placing undue priority and value on trivial matters, or
+purposely exaggerating emotions and responses to garner sympathy
+in situations as a ploy to influence others.  
+
+The Code of Conduct MUST NOT supersede laws within an individual's respective
 location. As such, all infractions of the law MUST be reported to the
-appropriate governing body. 
+appropriate governing body.  
 
 ## Limitations
 
@@ -32,7 +37,7 @@ are limited to mediums tied exclusively to a project such as:
 This Code of Conduct only endorses the Golden Rule. 
 All other ideologies are neither endorsed or repremanded by this document.  
 
-    Golden Rule: Do unto others as you would have them do unto you.
+    Do unto others as you would have them do unto you.
 
 ### Respect yourself and others
 
@@ -48,6 +53,19 @@ free time and labor of the community. Consider the consequences of
  - the impact of code 
  - how your words will impact others on a given project 
  - the time people take out of their day to interact with you. 
+ 
+### Trust
+Without trust, collaborative coding becomes ineffective as project maintainers
+spend more time micromanaging a project that creating vision, leading, and
+providing other meaningful contributions. 
+
+Trust requires the belief that someone or something is reliable, good, honest, 
+and effective. Good faith of users and contributors are assumed.  However,
+Trust in an open source project, is earned through actions over time, not words
+or status.
+
+Thus its important that trust be earned and maintained through honest, reliable, 
+and effective actions of individuals. 
   
 ### Collaboration
  
@@ -118,6 +136,10 @@ Appeals to authority or popularity and using peer pressure will be tolerated.
 - "I can't believe you don't have Dropbox support yet."
 - "You need to listen to your users and ...".  
 - "x seems like a good and popular option."
+
+
+
+
  
 ## Ethics
  
