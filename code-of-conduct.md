@@ -7,7 +7,8 @@ This code of conduct relies on the language of
 [Rfc2119](https://www.ietf.org/rfc/rfc2119.txt)
 
 The goal is to set expectations of behavior and minimize drama
-while promoting a culture of productivity, fun, and appreciation.
+while promoting a culture of productivity, fun, and appreciation in 
+hopes of preventing a project from turning into a lifeless chore. 
 
 These rules MUST NOT supersede laws within an individual's respective
 location. As such, all infractions of the law MUST be reported to the
@@ -38,7 +39,7 @@ All other ideologies are neither endorsed or repremanded by this document.
 Self-respect plays a significant role in software development. Self-respect requires 
 pride and confidence in oneself and by extension pride in work that contributes to a project. 
  
-Self-respects lead people to treat others with respect and honor rather than lowering one's 
+Self-respect leads people to treat others with respect and honor rather than lowering one's 
 actions and directing oneself in a heated moment.   
  
 Respect includes the notion of showing consideration to others. Open source builds upon the
@@ -129,3 +130,5 @@ Appeals to authority or popularity and using peer pressure will be tolerated.
  - Disclose possible conflicts of interest. 
  
 Report infractions to [email@project.org](email@project.org)
+
+Version: 0.1.0
