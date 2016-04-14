@@ -25,7 +25,9 @@ and appreciation that enables the most important thing for an Open Source projec
 the Open Source software. 
 
 The second goal of this code of conduct is to protect CONTRIBUTORS from undue USER
-entitlement and aggressive demands seen in many Open Source projects.  
+entitlement and aggressive demands seen in many Open Source projects. This goal
+separates this Code of Conduct from all the others that I have seen for Open Source
+Software Projects.
 
 These goals inherently requires minimizing anything that gets in the way of shipping
 including politics and drama.
