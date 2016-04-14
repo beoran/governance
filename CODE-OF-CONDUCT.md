@@ -58,8 +58,7 @@ All ideologies are neither endorsed or repremanded by this document.
 
 This Code of Conduct inherently endorses the Golden Rule. 
 
-
-    Do unto others as you would have them do unto you.
+> Do unto others as you would have them do unto you.
 
 ### Respect yourself and others
 
@@ -141,8 +140,8 @@ so that others may jump in to fill the gap.
 ### Ask. Do not demand 
 Constructive criticism directed toward code, bugs, and features are encouraged. 
 
-Needy, demanding, and condescending requests are not tolerated.  
-Appeals to authority or popularity are not tolerated.  
+Needy, demanding, and condescending requests MUST NOT be tolerated.  
+Appeals to authority or popularity MUST NOT be tolerated.  
  
 **Good Pitch** 
 "Dropbox support would be awesome. Here is why:" (enumerate points based on facts 
@@ -159,7 +158,7 @@ and value provided)
  - External code must be properly attributed.
  - Promises REQUIRE caution and MUST NOT be taken lightly.   
  - Keep promises.
- - Rely on facts, not hearsay.
+ - Rely on facts, not hearsay (Rumors are for TMZ and tech journalists).
  - Be Transparent. 
  - List all gifts received and gifters for a particular project. 
  - Disclose possible conflicts of interest. 
