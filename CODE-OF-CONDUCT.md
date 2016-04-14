@@ -20,9 +20,14 @@ Other Terms
 
 ## The Intent
 
-The goal of this Code of Conduct is to set expectations of behavior, 
-minimize drama and promote a culture of productivity, fun,
-and appreciation.
+The goal of this Code of Conduct is to promote a culture of productivity, fun,
+and appreciation to enable the most important thing for an opensource project; shipping 
+the opensource software. The second goal of this code of conduct is 
+to protect CONTRIBUTORS from undue USER entitlement and aggressive demands 
+often seen in many opensource projects.  
+
+These goals inherently requires minimizing anything that gets in the way of shipping
+including politics and drama.
 
 **Drama** is defined as anything that purposefully wastes the time of 
 others, placing undue priority and value on trivial matters, or
@@ -48,8 +53,10 @@ are limited to mediums tied exclusively to a project such as:
 
 ## Conduct  
 
-This Code of Conduct only endorses the Golden Rule. 
-All other ideologies are neither endorsed or repremanded by this document.  
+All ideologies are neither endorsed or repremanded by this document.  
+
+This Code of Conduct inherently endorses the Golden Rule. 
+
 
     Do unto others as you would have them do unto you.
 
@@ -70,15 +77,16 @@ free time and labor of the community. Consider the consequences of
  
 ### Trust
 Without trust, collaborative coding becomes ineffective as project maintainers
-spend more time micromanaging a project that creating vision, leading, and
+spend more time micromanaging a project than creating vision, leading, and
 providing other meaningful contributions. 
 
 Trust requires the belief that someone or something is reliable, good, honest, 
-and effective. Good faith of users and contributors are assumed.  However,
-Trust in an open source project, is earned through actions over time, not words
-or status.
+and effective. Assume good faith from users and contributors. Unless evidence
+states otherwise, apply Hanlon's razor: 
 
-Thus its important that trust be earned and maintained through honest, reliable, 
+> "never attribute to malice that which is adequately explained by a moment of stupidity"
+
+Its vital that trust is earned and maintained through honest, reliable, 
 and effective actions of individuals. 
   
 ### Collaboration
@@ -92,11 +100,6 @@ Collaboration requires patience, vision, trust, and
 communication. It's hard to achieve collaboration in a divisive 
 environment; thus, communication SHOULD focus on technological
 issues that can be solved.  
- 
-Divisive topics or statements such as religion, politics, and
-things of a sexual nature MUST NOT be held on project communication 
-mediums and spaces. Bringing up these topics on project related
-medium MAY lead to permanent suspension from the project.  
 
 Resolve conflicts with respect and civility. If a project Creator 
 or Administrator gets involved, then all parties MAY be temporarily
@@ -121,7 +124,7 @@ equipped to replace the criminal justice system.
 
 ### Celebration
 Take time to celebrate major milestones, accomplishments, and contributions.
-Never underestimate the power of a simple authentic "thank you". 
+Never underestimate the power of a simple and authentic "thank you". 
  
 ### Authenticity
 This project values people that behave and communicate in an authentic manner. 
@@ -139,11 +142,12 @@ so that others may jump in to fill the gap.
 ### Ask. Do not demand 
 Constructive criticism directed toward code, bugs, and features are welcome. 
 
-Coming off as needy, demanding, condescending will not be tolerated.  
-Appeals to authority or popularity and using peer pressure will be tolerated.  
+Needy, demanding, and condescending requests are not tolerated.  
+Appeals to authority or popularity are not tolerated.  
  
 **Good Pitch** 
-"Dropbox support would be awesome. Here is why:" (enumerate points based on facts) 
+"Dropbox support would be awesome. Here is why:" (enumerate points based on facts 
+and value provided) 
  
 **Bad Pitches**
 - "I can't believe you don't have Dropbox support yet."
@@ -163,4 +167,4 @@ Appeals to authority or popularity and using peer pressure will be tolerated.
  
 Report infractions to [email@project.org](email@project.org)
 
-Version: 0.1.1
+Version: 0.1.2

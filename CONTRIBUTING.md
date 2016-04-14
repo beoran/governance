@@ -15,9 +15,9 @@ This code of conduct relies on the language of
  - **MAINTAINER** - Any person that enforces policy and process.
  - **CONTRIBUTOR** - Any person that submits a patch to the source repository.
  - **USER** - Any person that interacts with the final product and MAY contribute feedback.
- - **Author** Any person that writes a specific piece of code or content.
+ - **AUTHOR** Any person that writes a specific piece of code or content.
  - **PLATFORM** - The primary git repository that hosts the project. 
- - **Ticket** - A new thread or item created in the project bug or issue tracker.
+ - **TICKET** - A new thread or item created in the project bug or issue tracker.
  - **LICENSE** - The primary Open Source Licence that is applied to the source code repository.
  Unless otherwise stated, the LICENSE, refers to the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
  or higher license created by the [Apache Foundation](http://www.apache.org/).   
@@ -54,19 +54,23 @@ with the project's declared LICENSE.
  - A MAINTAINER MUST accept or reject A CONTRIBUTOR's patch.  
  - A MAINTAINER MAY offer direction for a patch to be accepted after rejection.
  - A CONTRIBUTOR MAY ask for direction to correct a rejected patch. 
- - MAINTAINERS that are not ADMINISTRATORS or CREATORS MUST allow another MAINTAINER
+ - MAINTAINERS that are not ADMINISTRATORS or CREATORS SHOULD allow another MAINTAINER
  to accept or reject their patch.
+ - A MAINTAINER that are not ADMINISTRATORS or CREATORS on a PROBRATION period 
+ MUST allow another MAINTAINER to accept or reject their patch.
+ - A MAINTAINER can only be put on PROBATION by ADMINISTRATORS or CREATORS.
  - MAINTAINERS MUST focus on merging acceptable patches from the community.
- - The USER who created the ticket MUST close the ticket. 
- - If an Administrator closes an open ticket that is fulfilled, the USER MAY be suspended
- from making future issues. 
+ - The USER who created the ticket MUST close the ticket within 3 days of  aCLOSE REQUEST or 
+ the request will be forcefully closed.  
+ - If an Administrator MUST close an open ticket that is FULFILLED, the USER MAY be suspended
+ from making future issues for not respecting the community's time. 
  
  
 ## Submissions
 
 ### Ticket Submissions
- - All ticket submissions are subject to the project [CODE OF CONDUCT](CODE-OF-CONDUCT.md)
- - Any ticket that demands a particular outcome MAY be closed.
+ - All ticket submissions are subject to the project's [CODE OF CONDUCT](CODE-OF-CONDUCT.md)
+ - Any ticket that demands rather than asks for particular outcome MAY be closed without warning.
  
 ### Submitting a bug ticket
  - A USER MUST clearly describe the expected behavior and the unexpected issue.
@@ -92,4 +96,4 @@ with the project's declared LICENSE.
  - A patch commit MUST include a short message of 50 characters.
  - A patch commit message MUST include the type of commit as the prefix. e.g. BUG, TASK, FEATURE, MERGE, PROTO 
 
-version 0.1.0
+version 0.1.1
