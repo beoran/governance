@@ -21,10 +21,11 @@ Other Terms
 ## The Intent
 
 The goal of this Code of Conduct is to promote a culture of productivity, fun,
-and appreciation to enable the most important thing for an opensource project; shipping 
-the opensource software. The second goal of this code of conduct is 
-to protect CONTRIBUTORS from undue USER entitlement and aggressive demands 
-often seen in many opensource projects.  
+and appreciation that enables the most important thing for an Open Source project; shipping 
+the Open Source software. 
+
+The second goal of this code of conduct is to protect CONTRIBUTORS from undue USER
+entitlement and aggressive demands seen in many Open Source projects.  
 
 These goals inherently requires minimizing anything that gets in the way of shipping
 including politics and drama.
@@ -91,15 +92,13 @@ and effective actions of individuals.
   
 ### Collaboration
  
-Working with others is required to build something greater than
-ourselves. 
+Working with others is required to build something greater than ourselves. 
 
 Praise and encourage positive behavior.
 
-Collaboration requires patience, vision, trust, and 
-communication. It's hard to achieve collaboration in a divisive 
-environment; thus, communication SHOULD focus on technological
-issues that can be solved.  
+Collaboration requires patience, vision, trust, and communication. It's 
+hard to achieve collaboration in a divisive environment; thus, communication
+**SHOULD focus on technological issues that can be solved**.  
 
 Resolve conflicts with respect and civility. If a project Creator 
 or Administrator gets involved, then all parties MAY be temporarily
@@ -140,7 +139,7 @@ If you can no longer work on a project, please notify the project immediately
 so that others may jump in to fill the gap. 
  
 ### Ask. Do not demand 
-Constructive criticism directed toward code, bugs, and features are welcome. 
+Constructive criticism directed toward code, bugs, and features are encouraged. 
 
 Needy, demanding, and condescending requests are not tolerated.  
 Appeals to authority or popularity are not tolerated.  
